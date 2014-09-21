@@ -1,0 +1,7 @@
+/**
+ * 
+ */
+function GoToHomePage()
+{
+    window.location = '/';   
+}
